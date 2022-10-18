@@ -22,6 +22,10 @@
 
 Any question, please submit an [issue](https://github.com/OpenChain-Project/template-repo-for-new-projects/issues/new?assignees=shanecoughlan&labels=question&template=question.md&title=%5BQuestion%5D)
 
+## GitHub Training
+
+* [Getting started with GitHub](https://openchain-project.github.io/github-training/)
+
 ## Collaborating with GitHub
 <figure>
 	<img src="images/single-trunk-branch.svg" alt="GSF Single-Trunk Based Branch Flow">
