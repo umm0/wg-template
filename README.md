@@ -1,38 +1,42 @@
-# [WG Name]
+# _WG Name_
 
-## Scope
-{add scope}
+_Description of the group_
 
-## Appointments 
-- Chair - Name {company}
-- V.Chair - Name {company}
+## Goals
 
-## Project Details
-{add additional information for the reader to understand the project}
+- _Goal 1_
+- _Goal 2_
+- _Goal 3_
+- _etc_
 
-## Resources
+## Non-Goals
 
-* [Add me to meeting](add link)
-* [Shared Google Drive](add link)
-* [Slack Channel](add link)
-* [Add me to your project email distribution list](add link)
+- _Non-Goal 1_
+- _Non-Goal 2_
+- _Non-Goal 3_
+- _etc_
 
-## GitHub Training 
-- [Getting started with GitHub](https://openchain-project.github.io/github-training/)
+## Deliverables
 
-Any question, please submit an [issue](https://github.com/OpenChain-Project/template-repo-for-new-projects/issues/new?assignees=shanecoughlan&labels=question&template=question.md&title=%5BQuestion%5D)
+All deliverables are licensed under the [Creative Commons Zero License version 1.0 Universal (CC0 1.0)](LICENSE) per the [OpenChain Project Charter](https://charter.openchainproject.org). Details on how to contribute to the work is defined in the [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## GitHub Training
+- _Deliverable 1_
+- _etc_
 
-* [Getting started with GitHub](https://openchain-project.github.io/github-training/)
+## Work Group Members
 
-## Collaborating with GitHub
-<figure>
-	<img src="images/single-trunk-branch.svg" alt="GSF Single-Trunk Based Branch Flow">
-	<figcaption></figcaption>
-</figure>
+_TODO: how to become a work group member_
 
-- See [The Way we Work](https://github.com/OpenChain-Project/the_way_we_work/blob/main/Rules/the_way_we_work.md) for futher details.
+- Chairperson: _Chair_
+- Vice Chairperson: _Vice Chair_
+- _Other members_
 
-## Help
-helpdesk@lists.openchainproject.org 
+## Discussion and Meetings
+
+All meetings and discussions are open for anyone to participate in.
+
+- [Calendar]() - _add link_
+- [Mailing List]() - _add link_
+- [Slack]() - _add link_
+
+For any questions or support for this group, please contact the [OpenChain Project staff](mailto:support@openchainproject.org).
