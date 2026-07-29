@@ -31,7 +31,7 @@ Please *add 'Attended'* to this issue during the meeting to denote attendance.
 - [ ] Approve previous minutes
 
 ## Introductions
-{round robin of into's}
+{round robin of intro's}
 
 ## Latest news
 > Name of person to be entered here
